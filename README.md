@@ -14,9 +14,9 @@ How it works :
 - Your answers are stored in a separate list so they can be compared with the correct answers at the end.
 - At the end, your score is shown as a percentage, based on how many questions you answered correctly.
 
-Running it :
-python quiz.py
+Notes:
 
+- check out main.py for the full code
 - Since the questions are randomized, the order will be different every time you run the program.
 
 
